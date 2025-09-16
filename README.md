@@ -3,6 +3,11 @@ losing track of your Quest Log streak? forget to claim your prize because you di
 <img width="700px" height="auto" src="https://i.imgur.com/y8qBOKB.png"><br><br>
 additional: hides the extra "Let's Go" link to NeoPass quests.
 
+# Lab Ray Logger Link
+adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger">Lab Ray Logger</a> to your lab ray results, so you can go enter your zap right away.
+
+NOTE: if you play on Firefox, use Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger&id=install&browser=firefox">Automatic Lab Ray Logger</a> extension instead! it is currently not available anymore for Chrome and Edge :(
+
 # Gormball MVP
 a Gormball companion script for lovers of the game.<br><br>
 <img width="400px" height="auto" src="https://i.imgur.com/4pe2a4j.png"><br>

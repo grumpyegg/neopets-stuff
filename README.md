@@ -1,4 +1,4 @@
-# Neopets Stuff by egg
+# Neopets Stuff by egg <img src="https://images.neopets.com/community/hub/calendar/events/ixi.png">
 in alphabetical order:
 
 # Better Community Central

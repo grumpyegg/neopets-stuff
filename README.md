@@ -1,12 +1,12 @@
-# Quest Log Streak View
-losing track of your Quest Log streak? forget to claim your prize because you didn't click on "Streak Reward" and see it was ready? me too.<br>this script will show your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.<br><br>
-<img width="700px" height="auto" src="https://i.imgur.com/y8qBOKB.png"><br><br>
-additional: hides the extra "Let's Go" link to NeoPass quests.
+# Neopets Stuff by egg
+in alphabetical order:
 
-# Lab Ray Logger Link
-adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger">Lab Ray Logger</a> to your lab ray results, so you can go enter your zap right away.
-
-NOTE: if you play on Firefox, use Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger&id=install&browser=firefox">Automatic Lab Ray Logger</a> extension instead! it is currently not available anymore for Chrome and Edge :(
+# Better Community Central
+makes the Community Central page nicer to use.
+* expands the News section to full width, so you can actually read it.
+* adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=dailypuzzle">daily puzzle solution</a>. speed through those dailies!
+* replaces the yucky/broken social media widgets with buttons that bring you to the neopets facebook/twitter.
+* makes those buttons next to the calendar less huge.
 
 # Gormball MVP
 a Gormball companion script for lovers of the game.<br><br>
@@ -19,4 +19,11 @@ a Gormball companion script for lovers of the game.<br><br>
 * replaces the player bio images with images of their plushies, because that's pretty cute.
 * i won a trophy while testing this script. that's not a feature, i just want you to be happy for me.
 
-have fun playing and back Farvin III for enby rights!
+# Lab Ray Logger Link
+this script adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger">Lab Ray Logger</a> to your lab ray results, so you can go enter your zap right away.
+
+NOTE: if you play on Firefox, use Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger&id=install&browser=firefox">Automatic Lab Ray Logger</a> extension instead! it is currently not available anymore for Chrome and Edge :(
+
+# Quest Log Streak View
+forgot to claim your prize because you didn't click on "Streak Reward" and notice it was ready? me too. this script will show your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.<br>(also hides the extra "Let's Go" section under your quests)<br><br>
+<img width="700px" height="auto" src="https://i.imgur.com/y8qBOKB.png"><br><br>

@@ -24,6 +24,9 @@ this script adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=lab_
 
 NOTE: if you play on Firefox, use Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger&id=install&browser=firefox">Automatic Lab Ray Logger</a> extension instead! it is currently not available anymore for Chrome and Edge :(
 
+# Meteor Poker
+this script saves you a click at the Kreludor meteor and chooses the "poke with a stick" option. that's it!
+
 # Quest Log Streak View
 forgot to claim your prize because you didn't click on "Streak Reward" and notice it was ready? me too. this script will show your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.<br>(also hides the extra "Let's Go" section under your quests)<br><br>
 <img width="700px" height="auto" src="https://i.imgur.com/y8qBOKB.png"><br><br>

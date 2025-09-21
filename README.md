@@ -19,11 +19,6 @@ a Gormball companion script for lovers of the game.<br><br>
 * replaces the player bio images with images of their plushies, because that's pretty cute.
 * i won a trophy while testing this script. that's not a feature, i just want you to be happy for me.
 
-# Lab Ray Logger Link
-this script adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger">Lab Ray Logger</a> to your lab ray results, so you can go enter your zap right away.
-
-NOTE: if you play on Firefox, use Jellyneo's <a href="https://www.jellyneo.net/?go=lab_ray_logger&id=install&browser=firefox">Automatic Lab Ray Logger</a> extension instead! it is currently not available anymore for Chrome and Edge :(
-
 # Meteor Poker
 this script saves you a click at the Kreludor meteor and chooses the "poke with a stick" option. that's it!
 

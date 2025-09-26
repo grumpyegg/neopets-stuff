@@ -27,21 +27,3 @@ forgot to claim your prize because you didn't click on "Streak Reward" and notic
 * show your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.
 * hide the extra "Let's Go" section under your quests.<br><br>
 <img width="700px" height="auto" src="https://i.imgur.com/y8qBOKB.png"><br><br>
-
-# "Watch Ad" Buttons-Be-Gone! (for non-Premium players)
-not interested in a premium membership? tired of the options to watch an ad at every turn? this script says <a href="https://www.youtube.com/watch?v=-vA8yG5b1g0">nuh-uh</a> to looking at extra ads, hiding a variety of buttons and other promos.
-
-<b><u>DISCLAIMER</u>: this script DOES NOT act as an ad blocker!!!!</b> nor does it remove any of the banner/flash/video ads on a typical neopets page.
-
-<img width="70px" height="auto" src="https://images.neopets.com/themes/h5/basic/images/watchadreward-icon.png"><img width="70px" height="auto" src="https://images.neopets.com/nchub/np/images/membership/icon-premium.png">
-
-buttons allowing you to watch ads will be hidden in these places:
-* homepage
-* wheels of excitement, knowledge, mediocrity, misfortune, extragavance, monotony
-* battledome
-* faerie caverns
-* the void within: volunteer centre, lost in the dark, attack on altador
-
-also hidden: "learn more" premium perk ads (example - at the top of the games room), the fortune cookie ad at grave danger, and the void attractor prototype ad on maps.
-
-if you'd like to pick and choose which things are hidden, the code is written so you can easily edit it and comment out anything you'd still like to see.

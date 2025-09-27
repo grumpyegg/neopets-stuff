@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Meteor Poker
-// @version      2025-09-19
+// @version      2025-09-27
 // @description  are you really that lazy? yeah. what about it
 // @author       grumpyegg
 // @match        https://www.neopets.com/moon/meteor.phtml*

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Gormball MVP
-// @version      2025-09-15
+// @version      2025-09-27
 // @description  if gormball has one fan, i'm that one
 // @author       grumpyegg
 // @match        https://www.neopets.com/space/gormball.phtml

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Quest Log Streak View
-// @version      2025-07-31
+// @version      2025-09-27
 // @description  displays quest log daily (bonus) progress and streak progress together
 // @author       grumpyegg
 // @match        https://www.neopets.com/questlog/

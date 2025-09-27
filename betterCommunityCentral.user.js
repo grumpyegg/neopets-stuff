@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Better Community Central
-// @version      2025-09-13
-// @description  i made this because those buttons were too dang big
+// @version      2025-09-27
+// @description  full width news, link to daily puzzle solution, etc!
 // @author       grumpyegg
 // @match        https://www.neopets.com/community/*
 // @icon         https://images.neopets.com/community/hub/calendar/events/ixi.png

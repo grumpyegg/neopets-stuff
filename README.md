@@ -1,5 +1,5 @@
 # Neopets Stuff by egg <img src="https://images.neopets.com/community/hub/calendar/events/ixi.png">
-in alphabetical order:
+(last update: 9/27/25) in alphabetical order:
 
 # Better Community Central
 makes the Community Central page nicer to use.

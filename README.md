@@ -11,8 +11,9 @@ makes the Community Central page nicer to use.
 # Gormball MVP
 a Gormball companion script for lovers of the game.<br><br>
 <img width="400px" height="auto" src="https://i.imgur.com/4pe2a4j.png"><br>
-* displays your possible score (aka the neopoints you will earn) if you win the game.
+* displays your possible score - aka the neopoints you will earn - if you win the game.
 * shows an image of the player in action when it's their move.
+* UPDATE: turns score red when you're in the "danger zone" (can only get negative bonuses)
 * have a favorite character to play as? edit the script and change <i>myFavoritePlayer</i> to their name. before you start a new game, they will be already chosen!
 * adds a link to the Gormball Neopedia page to read up on past championship games.
 * if you're not using the Ruffle extension, replaces the broken flash animation with a piccy.

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Gormball MVP
-// @version      2025-09-27
+// @version      2026-01-10
 // @description  if gormball has one fan, i'm that one
 // @author       grumpyegg
 // @match        https://www.neopets.com/space/gormball.phtml
@@ -113,6 +113,10 @@
                 if(ptsText) {
                     const pts = parseInt(ptsText[1], 10);
                     const winningScore = pts * 4;
+
+                    if(pts > 15 && pts < 36) {
+                        b.style.color = 'red';
+                    }
 
                     const scoreEl = document.createElement('div');
                     scoreEl.textContent = `Win Score: ${winningScore}`;

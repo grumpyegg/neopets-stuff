@@ -1,10 +1,23 @@
-# Neopets Stuff by egg <img src="https://images.neopets.com/community/hub/calendar/events/ixi.png">
-(last update: 9/27/25) in alphabetical order:
+# Neopets Stuff by Egg <img src="https://images.neopets.com/community/hub/calendar/events/ixi.png">
+last update: Jan 10 2026
+
+# Stamp Album Page Flipper
+for browsing your stamp collection (or someone else's) with ease.
+* adds arrow buttons that will bring you to the next/previous stamp page.
+* organizes stamp page links for easier reading, and highlights the page you're currently on.
+* compatible with popular stamp album helper scripts.<br>
+<img width="500px" height="auto" src="https://i.imgur.com/w7oRkfg.png">
+
+# Quest Log Streak View
+forgot to claim your prize because you didn't click on "Streak Reward" and notice it was ready? me too. this script will:
+* show your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.
+* hide the extra "Let's Go" section under your quests.<br>
+<img width="500px" height="auto" src="https://i.imgur.com/y8qBOKB.png">
 
 # Better Community Central
 makes the Community Central page nicer to use.
 * expands the News section to full width, so you can actually read it.
-* adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=dailypuzzle">daily puzzle solution</a>. speed through those dailies!
+* adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=dailypuzzle">daily puzzle solution</a>.
 * replaces the yucky/broken social media widgets with buttons that bring you to the neopets facebook/twitter.
 * makes those buttons next to the calendar less huge.
 
@@ -18,13 +31,9 @@ a Gormball companion script for lovers of the game.<br><br>
 * adds a link to the Gormball Neopedia page to read up on past championship games.
 * if you're not using the Ruffle extension, replaces the broken flash animation with a piccy.
 * replaces the player bio images with images of their plushies, because that's pretty cute.
-* i won a trophy while testing this script. that's not a feature, i just want you to be happy for me.
 
-# Meteor Poker
+# Lazy Meteor
 this script saves you a click at the Kreludor meteor and chooses the "poke with a stick" option. that's literally it.
 
-# Quest Log Streak View
-forgot to claim your prize because you didn't click on "Streak Reward" and notice it was ready? me too. this script will:
-* show your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.
-* hide the extra "Let's Go" section under your quests.<br><br>
-<img width="700px" height="auto" src="https://i.imgur.com/y8qBOKB.png"><br><br>
+# Lazy Cheeseroller
+this script fills in "Rotten" for you at Cheeseroller when picking a cheese to buy. that's literally it.<br>(note: if you prefer a different, less stinky cheese, just edit the script and change "Rotten" to another word)

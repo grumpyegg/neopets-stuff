@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Meteor Poker
+// @name         Lazy Meteor
 // @version      2025-09-27
-// @description  are you really that lazy? yeah. what about it
+// @description  always poke the meteor
 // @author       grumpyegg
 // @match        https://www.neopets.com/moon/meteor.phtml*
 // @icon         https://images.neopets.com/community/hub/calendar/events/ixi.png

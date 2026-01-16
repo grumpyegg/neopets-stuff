@@ -1,25 +1,26 @@
 # Neopets Stuff by Egg <img src="https://images.neopets.com/community/hub/calendar/events/ixi.png">
-last update: Jan 10 2026
+last update: Jan 15 2026
+
+# Books Read Search and Sort
+want to quickly check if you've read that book? just search it up with this upgrade to the 'Books Read' page.<br><br>
+<img width="500px" height="auto" src="https://i.imgur.com/dvqob15.png">
+* adds a search bar to look for titles in the book list.
+* adds a button to sort the book list alphabetically by title.
+* restyles and resizes stuff for a better experience in general.
+* adds a link back to the regular books page from the booktastic books page.
 
 # Stamp Album Page Flipper
-for browsing your stamp collection (or someone else's) with ease.
+for browsing your stamp collection (or someone else's) with ease.<br><br>
+<img width="500px" height="auto" src="https://i.imgur.com/w7oRkfg.png">
 * adds arrow buttons that will bring you to the next/previous stamp page.
 * organizes stamp page links for easier reading, and highlights the page you're currently on.
 * compatible with popular stamp album helper scripts.<br>
-<img width="500px" height="auto" src="https://i.imgur.com/w7oRkfg.png">
 
 # Quest Log Streak View
-forgot to claim your prize because you didn't click on "Streak Reward" and notice it was ready? me too. this script will:
-* show your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.
-* hide the extra "Let's Go" section under your quests.<br>
-<img width="500px" height="auto" src="https://i.imgur.com/y8qBOKB.png">
-
-# Better Community Central
-makes the Community Central page nicer to use.
-* expands the News section to full width, so you can actually read it.
-* adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=dailypuzzle">daily puzzle solution</a>.
-* replaces the yucky/broken social media widgets with buttons that bring you to the neopets facebook/twitter.
-* makes those buttons next to the calendar less huge.
+forgot to claim your prize because you didn't click on "Streak Reward" and notice it was ready? not anymore!<br><br>
+<img width="600px" height="auto" src="https://i.imgur.com/WtcRNXK.png">
+* shows your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.
+* hides the extra "Let's Go" section under your quests.<br>
 
 # Gormball MVP
 a Gormball companion script for lovers of the game.<br><br>
@@ -31,6 +32,13 @@ a Gormball companion script for lovers of the game.<br><br>
 * adds a link to the Gormball Neopedia page to read up on past championship games.
 * if you're not using the Ruffle extension, replaces the broken flash animation with a piccy.
 * replaces the player bio images with images of their plushies, because that's pretty cute.
+
+# Better Community Central
+makes the Community Central page nicer to use.
+* expands the News section to full width, so you can actually read it.
+* adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=dailypuzzle">daily puzzle solution</a>.
+* replaces the yucky/broken social media widgets with buttons that bring you to the neopets facebook/twitter.
+* makes those buttons next to the calendar less huge.
 
 # Lazy Meteor
 this script saves you a click at the Kreludor meteor and chooses the "poke with a stick" option. that's literally it.

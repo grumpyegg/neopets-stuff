@@ -16,7 +16,6 @@ for browsing your stamp collection (or someone else's) with ease.<br>
 * compatible with popular stamp album helper scripts.<br>
 <img width="600px" height="auto" src="https://i.imgur.com/w7oRkfg.png">
 
-
 # Quest Log Streak View
 forgot to claim your prize because you didn't click on "Streak Reward" and notice it was ready? not anymore!<br>
 * shows your daily quest progress and streak progress at the same time, similar to how it looked in the original Quest Log.
@@ -48,7 +47,7 @@ makes the Community Central page nicer to use.
 * replaces the yucky/broken social media widgets with buttons that bring you to the neopets facebook/twitter.
 * makes those buttons next to the calendar less huge.
 
-# Lazy Meteor
+# Lazy Meteor  (aka Meteor Poker)
 this script saves you a click at the Kreludor meteor and chooses the "poke with a stick" option. that's literally it.
 
 # Lazy Cheeseroller

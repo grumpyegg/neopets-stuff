@@ -47,6 +47,13 @@ makes the Community Central page nicer to use.
 * replaces the yucky/broken social media widgets with buttons that bring you to the neopets facebook/twitter.
 * makes those buttons next to the calendar less huge.
 
+# Squashed Petpet Puddle
+displays petpet options in a grid instead of one long row. because that page still isn't fixed.
+
+# Lazy Chance Games
+makes buttons in Dice-A-Roo, Double or Nothing, Kiss The Mortog, and Scorchy Slots bigger for faster clicking. i made this because i kept clicking the collect button by mistake like a clown.<br>
+<img width="300px" src="https://i.imgur.com/dNMmSoe.png">
+
 # Lazy Meteor  (aka Meteor Poker)
 this script saves you a click at the Kreludor meteor and chooses the "poke with a stick" option. that's literally it.
 

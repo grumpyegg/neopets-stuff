@@ -1,5 +1,5 @@
 # Neopets Stuff by Egg <img src="https://images.neopets.com/community/hub/calendar/events/ixi.png">
-last update: Jan 17 2026
+last update: May 29 2026
 
 # Books Read Search and Sort
 want to quickly check if you've read that book? just search it up with this upgrade to the 'Books Read' page.<br>

@@ -5,8 +5,6 @@
 // @author       grumpyegg
 // @match        *://*.neopets.com/stamps.phtml*
 // @icon         https://images.neopets.com/community/hub/calendar/events/ixi.png
-// @downloadURL  https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/stampAlbumPageFlipper.user.js
-// @updateURL    https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/stampAlbumPageFlipper.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 

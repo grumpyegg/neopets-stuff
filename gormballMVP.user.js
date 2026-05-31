@@ -7,8 +7,6 @@
 // @match        https://www.neopets.com/space/gormball2.phtml
 // @icon         https://images.neopets.com/community/hub/calendar/events/ixi.png
 // @grant        GM_addStyle
-// @downloadURL  https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/gormballMVP.user.js
-// @updateURL    https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/gormballMVP.user.js
 // ==/UserScript==
 
 (() => {

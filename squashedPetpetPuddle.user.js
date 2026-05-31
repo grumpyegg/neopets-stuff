@@ -5,8 +5,6 @@
 // @author       madge
 // @match        https://www.neopets.com/pool/puddle.phtml
 // @icon         https://images.neopets.com/community/hub/calendar/events/ixi.png
-// @downloadURL  https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/squashedPetpetPuddle.user.js
-// @updateURL    https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/squashedPetpetPuddle.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 

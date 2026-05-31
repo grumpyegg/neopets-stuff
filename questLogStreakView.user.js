@@ -6,8 +6,6 @@
 // @match        https://www.neopets.com/questlog/
 // @icon         https://images.neopets.com/community/hub/calendar/events/ixi.png
 // @grant        GM_addStyle
-// @downloadURL  https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/questLogStreakView.user.js
-// @updateURL    https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/questLogStreakView.user.js
 // ==/UserScript==
 
 GM_addStyle(`

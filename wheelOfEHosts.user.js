@@ -5,8 +5,6 @@
 // @author       grumpyegg
 // @match        https://www.neopets.com/faerieland/wheel.phtml
 // @icon         https://images.neopets.com/community/hub/calendar/events/ixi.png
-// @downloadURL  https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/wheelOfEHosts.user.js
-// @updateURL    https://github.com/grumpyegg/neopets-stuff/raw/refs/heads/main/wheelOfEHosts.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 

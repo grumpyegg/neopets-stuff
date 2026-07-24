@@ -1,5 +1,5 @@
 # Neopets Stuff by Egg <img src="https://images.neopets.com/community/hub/calendar/events/ixi.png">
-last update: May 29 2026
+last update: Jul 23 2026
 
 # Books Read Search and Sort
 want to quickly check if you've read that book? just search it up with this upgrade to the 'Books Read' page.<br>
@@ -36,8 +36,9 @@ a Gormball companion script for lovers of the game.<br>
 # Wheel of Excitement Faerie Hosts
 have a familiar faerie face host the Wheel of Excitement, just for fun.<br>
 * <b><ins>instructions:</ins></b> edit the script and change <i>myFaerie</i> to the faerie of your choice! she'll be there at the wheel and react to your spins.
-* options: Jhudora, Illusen, Fyora, Luxinia, Baelia, Naia, Seshatia (default is Jhudora)
+* options: Jhudora, Illusen, Fyora, Luxinia, Baelia, Iridesia, Naia, Seshatia (default is Jhudora)
 * how would some of them even be there? i dunno, don't worry about it.<br>
+* UPDATE: added Iridesia!
 <img width="500px" height="auto" src="https://i.imgur.com/xDtjuuQ.png">
 
 # Better Community Central

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Wheel of Excitement Faerie Hosts
-// @version      2026-01-13
+// @version      2026-07-23
 // @description  WoE is hosted by Jhudora or another faerie of your choosing: Illusen, Fyora, Luxinia, Baelia, Naia, or Seshatia
 // @author       grumpyegg
 // @match        https://www.neopets.com/faerieland/wheel.phtml
@@ -14,6 +14,7 @@
 // Fyora
 // Luxinia
 // Baelia
+// Iridesia
 // Naia
 // Seshatia
 const myFaerie = 'Jhudora';
@@ -34,6 +35,9 @@ const IMAGES = { // thank you drsloth.com
     baeliaDefault: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/baelia_slightsmile_left_3maemk4d65.png',
     baeliaGood: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/baelia_confused_left_9ac442caeb.png',
     baeliaBad: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/baelia_embarrassed_left_e3ccc1db2c.png',
+    iridesiaDefault: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/iridesia_bashful_left_cdea5d7c6c.png',
+    iridesiaGood: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/iridesia_happy_left_56e271d6b6.png',
+    iridesiaBad: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/iridesia_curious_left_897f869aae.png',
     naiaDefault: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/naia_happy_left_af6246l2jl.png',
     naiaGood: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/naia_happy_left_af6246l2jl.png',
     naiaBad: 'https://images.neopets.com/plots/tvw/story/dialogue/actors/naia_worried_left_d4e8mjei21.png',
@@ -76,6 +80,13 @@ switch (myFaerie.toLowerCase()) {
           #wheelCharacter { background-image: url("${IMAGES.baeliaDefault}") ; }
           #wheelCharacter.wheelChar.wheelChar-good { background-image: url("${IMAGES.baeliaGood}"); }
           #wheelCharacter.wheelChar.wheelChar-bad { background-image: url("${IMAGES.baeliaBad}"); }
+        `);
+        break;
+    case 'iridesia':
+        GM_addStyle(`
+          #wheelCharacter { background-image: url("${IMAGES.iridesiaDefault}") ; }
+          #wheelCharacter.wheelChar.wheelChar-good { background-image: url("${IMAGES.iridesiaGood}"); }
+          #wheelCharacter.wheelChar.wheelChar-bad { background-image: url("${IMAGES.iridesiaBad}"); }
         `);
         break;
     case 'naia':

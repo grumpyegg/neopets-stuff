@@ -37,8 +37,8 @@ a Gormball companion script for lovers of the game.<br>
 have a familiar faerie face host the Wheel of Excitement, just for fun.<br>
 * <b><ins>instructions:</ins></b> edit the script and change <i>myFaerie</i> to the faerie of your choice! she'll be there at the wheel and react to your spins.
 * options: Jhudora, Illusen, Fyora, Luxinia, Baelia, Iridesia, Naia, Seshatia (default is Jhudora)
-* how would some of them even be there? i dunno, don't worry about it.<br>
-* UPDATE: added Iridesia!
+* how would some of them even be there? i dunno, don't worry about it.
+* UPDATE: added Iridesia!<br>
 <img width="500px" height="auto" src="https://i.imgur.com/xDtjuuQ.png">
 
 # Better Community Central
@@ -47,9 +47,6 @@ makes the Community Central page nicer to use.
 * adds a link to Jellyneo's <a href="https://www.jellyneo.net/?go=dailypuzzle">daily puzzle solution</a>.
 * replaces the yucky/broken social media widgets with buttons that bring you to the neopets facebook/twitter.
 * makes those buttons next to the calendar less huge.
-
-# Squashed Petpet Puddle
-displays petpet options in a grid instead of one long row. because that page still isn't fixed.
 
 # Lazy Chance Games
 makes buttons in Dice-A-Roo, Double or Nothing, Kiss The Mortog, and Scorchy Slots bigger for faster clicking. i made this because i kept clicking the collect button by mistake like a clown.<br>
